@@ -1,7 +1,7 @@
 {
   "id": "live-sync-collab",
   "name": "Live Sync Collab",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "minAppVersion": "1.5.0",
   "description": "Realtime collaborative editing across devices via self-hosted Yjs WebSocket server.",
   "author": "you",
